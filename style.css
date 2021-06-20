@@ -1,0 +1,114 @@
+#first-div{
+
+    width: 30%;
+    height: 750px;
+
+    margin-left: 30%;
+    margin-top: 7%;
+    border: 4px;
+    border-style: ridge;
+    border-color: yellow;
+    border-radius: 4%;
+    padding-left:73px;
+    background-color: brown;
+
+}
+
+#first-heading{
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 15px;
+    top: 0px;
+    display: inline-block;
+    color: yellow;
+
+}
+#second-heading{
+    margin-top: 0px;
+    margin-left: 25%;
+    margin-right: 15px;
+    color: yellow;
+    
+    display: inline-block;
+
+}
+#third-heading{
+    margin-left: 13%;
+    margin-right: 15px;
+    font-size: 65%;
+    color: yellow;
+    
+}
+
+#fourth-heading{
+
+    margin-left: 23%;
+    margin-right: 15px;
+    font-size: 65%;
+    margin-top: 0%;
+    color: yellow;
+
+
+}
+
+#second-div{
+
+    width: 60%;
+    height: 400px;
+    background-color:thistle;
+    margin-left: 2%;
+    margin-top: 0%;
+    border: 4px;
+    border-style: ridge;
+    border-color: yellow;
+
+    padding-left:73px;
+
+
+}
+#lab-two{
+
+    font-weight: bold;
+    margin-top: 25%;
+    color: brown;
+}
+
+#num-one{
+    margin-top:3%;
+    height: 25px;
+    width: 70%;
+    margin-left: 2px;
+    border: 2px solid black;
+}
+#lab-one{
+    
+    font-weight: bold;
+    margin-top: 5%;
+    color: brown;
+
+}
+#num-two{
+
+    margin-top:3%;
+    height: 25px;
+    width: 168px;
+    border: 2px solid black;
+
+}
+#but-one{
+    margin-top:12%;
+    height: 15px;
+    width: 155px;
+    padding: 14%;
+    padding-top: 18px;
+    font-size: 24px;
+    padding-left: 8%;
+    color: yellow;
+    background-color: blueviolet;
+    border: 3px solid yellow;
+    border-radius: 14px;
+    font-weight:bolder;
+    text-align: center;
+    
+
+}
