@@ -15,4 +15,9 @@
 - There are total four files in it. 
 - Click on each file to view its code.
 
+
 ## Repo Link:
+https://github.com/hammad2525/BMI-App
+
+## Live Page Link:
+https://hammad2525.github.io/BMI-App/
